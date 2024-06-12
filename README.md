@@ -13,7 +13,7 @@ Cílem dashboardu bylo zobrazení následujících informací:
 - do jaké míry (ne)jsou plněny naplánované celkové sledované metriky dané kampaně,
 - u kterých formátů a publisherů došlo k přeplnění nebo nesplnění nastavených cílů.
 
-### Dashbaord
+### Dashboard
 ![image](https://github.com/KarolinaOpasik/Tableau_Viz_Metriky_Kampane/assets/146082124/e80cad1c-2df3-401d-ad91-e36cbf37b814)
 
 
